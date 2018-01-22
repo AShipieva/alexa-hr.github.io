@@ -3,4 +3,4 @@
 ## Вакансии
 
 ### [Инженер по проектированию аналого-цифровых устройств и систем на кристалле](/elvees-vacancies/engineer-ad-da-soc)
-### [Инженер-программист (разработчик компилятора)](/elvees-vacancies/compiler-developer)
+### [Разработчик компилятора](/elvees-vacancies/compiler-developer)

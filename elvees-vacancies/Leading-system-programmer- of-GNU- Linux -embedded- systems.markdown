@@ -46,15 +46,15 @@
 
 ## *Ключевые навыки*
 
-Linux
-Драйверы
-U-Boot
-Buildroot
-Busybox
-toolchain
-Chromium Embedded Framework
-Встраиваемые решения
-STM32
-Atmel
-Pthreads
+* Linux
+* Драйверы
+* U-Boot
+* Buildroot
+* Busybox
+* toolchain
+* Chromium Embedded Framework
+* Встраиваемые решения
+* STM32
+* Atmel
+* Pthreads
 
